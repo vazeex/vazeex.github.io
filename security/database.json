@@ -1,0 +1,12 @@
+{
+  "websites": [
+    {
+      "domain": "https://www.example.com",
+      "status": "safe"
+    },
+    {
+      "domain": "https://www.maliciouswebsite.com",
+      "status": "unsafe"
+    }
+  ]
+}
